@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## note: uses GNU parallel
+# note: uses GNU parallel
 
 function process_files(){
 	file="$1"
