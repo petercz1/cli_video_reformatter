@@ -12,4 +12,4 @@ function process_files(){
 
 export -f process_files
 
-find . -type f -iregex ".*/.*\.\(webm\|avi\|mp4\|mkv\|wmv\|flv\|wav\|vob\)" | parallel --citation process_files
+find . -type f -iregex ".*/.*\.\(webm\|avi\|mp4\|mkv\|wmv\|flv\|wav\|vob\)" | parallel process_files
