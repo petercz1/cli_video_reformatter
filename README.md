@@ -23,7 +23,7 @@ I wrote it on Ubuntu 18.10, YMMV
 
 ## output
 
-I'm using a constant rate factor of 23 which gives me adequate 
+I'm using a constant rate factor of 23 which gives me adequate resolution an
 
 ## warning - this deletes the original after conversion
 
