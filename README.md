@@ -19,4 +19,7 @@ I tested it on Ubuntu 18.10, YMMV
 * download and place in your path
 * make the file executable: `chmod +x video_reformatter.sh`
 * using a terminal, navigate to the folder containing your video files
-* run with 
+* run with `video_reformatter.sh`
+
+## warning - this deletes the original after conversion
+
