@@ -10,9 +10,9 @@ converts video files to most common TV USB filetype
 ## requirements
 
 * [ffmpeg](https://ffmpeg.org/)
-* [parallel]
+* [parallel](https://www.gnu.org/software/parallel/)
 
-I tested it on Ubuntu 18.10, YMMV
+I wrote it on Ubuntu 18.10, YMMV
 
 ## how to use
 
