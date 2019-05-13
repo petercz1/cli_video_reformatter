@@ -23,6 +23,6 @@ I tested it on Ubuntu 18.10, YMMV
 
 ## warning - this deletes the original after conversion
 
-You cna stop this by commenting out/deleting the end of line 10:
+You can stop this by commenting out/deleting the end of line 10:
 
 `# && rm "${filename}.oldfile.${extension}"`
