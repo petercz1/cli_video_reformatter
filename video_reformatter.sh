@@ -4,12 +4,13 @@
 
 function process_files(){
 	file="$1"
+	
 	video=$(mediainfo --Inform="Video;%Codec%" $file)
 	audio=$(mediainfo --Inform="Audio;%Codec%" $file)
 	extension="${file##*.}"                     	# get the extension
 	filename="${file%.*}"                       	# get the filename
 	echo $filename ": " $video ", " $audio
-	
+
 	# mv "$file" "${filename}.oldfile.${extension}"    # rename file by moving it
 	# ffmpeg -y -i "${filename}.oldfile.${extension}" -c:v libx264 -crf 18 -c:a aac -brand mp41 "$filename".mp4 && rm "${filename}.oldfile.${extension}"
 }
