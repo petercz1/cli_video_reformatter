@@ -23,3 +23,4 @@ I tested it on Ubuntu 18.10, YMMV
 
 ## warning - this deletes the original after conversion
 
+You cna stop this by 
