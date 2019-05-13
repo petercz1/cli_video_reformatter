@@ -4,7 +4,7 @@
 
 function process_files(){
 	file="$1"
-	mediainfo --Inform="Video;%Codec%" $file 
+	mediainfo --Inform="Video;%Codec%" $file -print0
 	echo $video
 	extension="${file##*.}"                     	# get the extension
 	filename="${file%.*}"                       	# get the filename
