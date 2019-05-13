@@ -23,7 +23,7 @@ I wrote it on Ubuntu 18.10, YMMV
 
 ## output
 
-I'm using a `crf` (constant rate factor) of 23 which gives me adequate resolution and a preset of `veryslow` to make the output as small as possible. Some people prefer a higher crf eg 18 for better quality. Veryslow takes a while. I'm also scaling to 720p. Adjust to taste.
+I'm using a `crf` (constant rate factor) of 23 which gives me adequate resolution and a preset of `veryslow` to make the output as small as possible. Some people prefer a higher crf eg 18 for better quality. Veryslow takes a while. Adjust to taste.
 
 ## warning - this deletes the original after conversion
 
