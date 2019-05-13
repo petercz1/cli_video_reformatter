@@ -23,7 +23,7 @@ I wrote it on Ubuntu 18.10, YMMV
 
 ## output
 
-I'm using a `crf` (constant rate factor) of 23 which gives me adequate resolution and a preset of `veryslow`
+I'm using a `crf` (constant rate factor) of 23 which gives me adequate resolution and a preset of `veryslow` to make the file
 
 ## warning - this deletes the original after conversion
 
