@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 function process_files(){
 	file="$1"
 	extension="${file##*.}"                     	# get the extension
