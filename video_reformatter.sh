@@ -1,6 +1,7 @@
 #!/bin/bash
 
-## note: uses 
+## note: uses GNU parallel
+
 function process_files(){
 	file="$1"
 	extension="${file##*.}"                     	# get the extension
