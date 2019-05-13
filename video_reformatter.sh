@@ -4,7 +4,7 @@
 
 function process_files(){
 	file="$1"
-	video=mediainfo --Language=raw --Inform=""
+	video=mediainfo --Language=raw --Inform="Video;%Codec"
 	extension="${file##*.}"                     	# get the extension
 	filename="${file%.*}"                       	# get the filename
 	mv "$file" "${filename}.oldfile.${extension}"    # rename file by moving it
