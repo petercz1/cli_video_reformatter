@@ -9,7 +9,10 @@ converts video files to most common TV USB filetype
 
 ## requirements
 
+* ffmpeg
+* parallel
 
+I tested it on 
 ## how to use
 
 download and place in your path
