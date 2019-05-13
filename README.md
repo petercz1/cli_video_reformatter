@@ -17,4 +17,3 @@ I tested it on Ubuntu 18.10, YMMV
 ## how to use
 
 download and place in your path
-open the root fo
