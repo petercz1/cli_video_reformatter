@@ -23,4 +23,4 @@ I tested it on Ubuntu 18.10, YMMV
 
 ## warning - this deletes the original after conversion
 
-You cna stop this by commenting out the end of 
+You cna stop this by commenting out the end of line 10
