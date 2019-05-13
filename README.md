@@ -17,3 +17,4 @@ I tested it on Ubuntu 18.10, YMMV
 ## how to use
 
 download and place in your path
+using a terminal, navigate to the folder containing
