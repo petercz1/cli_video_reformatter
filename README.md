@@ -9,7 +9,7 @@ converts video files to most common TV USB filetype
 
 ## requirements
 
-* ffmpeg
+* [ffmpeg]
 * parallel
 
 I tested it on Ubuntu 18.10, YMMV
