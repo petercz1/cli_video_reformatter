@@ -3,4 +3,5 @@
 converts video files to most common TV USB filetype
 
 * mp4
-* avc
+* avc video
+* aac audio
